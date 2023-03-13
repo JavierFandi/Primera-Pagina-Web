@@ -1,0 +1,11 @@
+.titulo-secciones {
+    padding: 20px 15px;
+}
+
+.listas-guias {
+    padding-left: 15px;
+}
+
+.listas-guias a{
+    color: rgb(247, 247, 247);
+}

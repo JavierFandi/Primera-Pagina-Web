@@ -1,0 +1,115 @@
+.imágenes-guía {
+    width: 700px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px ;
+}
+
+.imágenes-guía img {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    width: 700px;
+}
+
+.título-guía {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.lista-indice {
+    margin-top: 10px;
+    text-align: left;
+    padding: auto;
+    margin-left: auto;
+}
+
+.lista {
+    border: solid 2px white;
+    max-width: max-content;
+    padding: 10px 30px;
+}
+
+.indice {
+    text-align: center;
+}
+
+main {
+    margin: 0 150px;
+}
+
+.links-guia {
+    text-decoration: none;
+    color: white;
+}
+
+.links-guia:hover {
+    color: white;
+}
+
+.subtitulos-guia {
+    padding-bottom: 5px;
+}
+
+.parrafo {
+    margin-top: 10px;
+    font-size: 17px;
+}
+
+blockquote {
+    text-align: left;
+    border-left: 6px solid;
+    border-color: rgb(233, 233, 233);
+    padding: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    font-style: italic;
+}
+
+.videos-guias {
+    width: 650px;
+    text-align: center;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.links-roblox {
+    color: white;
+}
+
+.links-roblox:hover {
+    color: white;
+}
+
+iframe {
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    display: block;
+    width: 840px;
+    height: 472px;
+}
+
+.subtitulos-roblox {
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.videos-guias-genshin {
+    text-align: center;
+    margin: auto;
+    width: 800px;
+    height: 400px;
+}
+
+.título-guía2 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.subtitulos-guia2 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
